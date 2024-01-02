@@ -1,9 +1,14 @@
-### Hi there 👋
+### hi there 👋
 
-- Currently working at Palo Alto Networks as an SDE.
+- working at Palo Alto Networks as an SDE.
 - I am skilled in Java, Python, C++, JavaScript
-- Contributing using Flask on backend, and HTML, JS, CSS on Frontend
-- Currently Learning SpringBoot, High Level Design
+- tech and tools I am dealing with
+  -  Language: Python, Bash
+  -  Backend: Flask
+  -  Fronend: HTML, JS, CSS
+  -  Database: Postgresql
+  -  Others: Google Cloud
+- trying to be consistent on [Leetcode](https://leetcode.com/ankan10/) and currently Learning SpringBoot, High Level Design, Ukulele
 
 ### Plans to learn/do in 2024
 - [ ] Leetcode

@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - Currently working at Palo Alto Networks as an SDE.
+- I am skilled in Java, Python, C++, JavaScript
+- Contributing using Flask on backend, and HTML, JS, CSS on Frontend
 - Currently Learning SpringBoot, High Level Design
 
 ### Plans to learn/do in 2024
@@ -9,7 +11,7 @@
 - [ ] Low Level Design
 - [ ] Design Patterns
 - [ ] High Level Design
-- [ ] JavaScript
+- [ ] More JavaScript
 - [ ] React JS
 - [ ] Contribute on above + Flask/Python
 - [ ] Make good projects

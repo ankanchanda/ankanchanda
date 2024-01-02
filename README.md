@@ -1,16 +1,18 @@
 ### hi there 👋
 
-- working at Palo Alto Networks as an SDE.
+- Working at Palo Alto Networks as an SDE.
 - I am skilled in Java, Python, C++, JavaScript
-- tech and tools I am dealing with
+- Tech and tools I am dealing with
   -  Language: Python, Bash
   -  Backend: Flask
   -  Fronend: HTML, JS, CSS
   -  Database: Postgresql
-  -  Others: Google Cloud
-- trying to be consistent on [Leetcode](https://leetcode.com/ankan10/) and currently Learning SpringBoot, High Level Design, Ukulele
+  -  Others: Google Cloud, Jenkins
+-  I’m looking to collaborate on techs I mentioned
+-  Finding peer to learn things together? Email at ankan.chanda74@gmail.com
+- Trying to be consistent on [Leetcode](https://leetcode.com/ankan10/) <br>& currently learning SpringBoot, High Level Design, Ukulele
 
-### Plans to learn/do in 2024
+### Plans to learn and execute in 2024
 - [ ] Leetcode
 - [ ] Spring Boot
 - [ ] Low Level Design

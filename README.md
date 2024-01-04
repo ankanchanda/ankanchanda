@@ -2,7 +2,7 @@
 
 - Working at Palo Alto Networks as an SDE.
 - I am skilled in Java, Python, C++, JavaScript
-- Tech and tools I am dealing with
+- Tech and tools I am dealing with working as an SDE
   -  Language: Python, Bash
   -  Backend: Flask
   -  Fronend: HTML, JS, CSS

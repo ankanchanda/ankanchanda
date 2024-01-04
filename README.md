@@ -9,7 +9,7 @@
   -  Database: Postgresql
   -  Others: Google Cloud, Jenkins
 -  I’m looking to collaborate on techs I mentioned
--  Finding peer to learn things together? Email at ankan.chanda74@gmail.com
+-  Finding peer to learn things together? Email me!!
 - Trying to be consistent on [Leetcode](https://leetcode.com/ankan10/) <br>& currently learning SpringBoot, High Level Design, Ukulele
 
 ### Plans to learn and execute in 2024

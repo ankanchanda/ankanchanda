@@ -8,7 +8,7 @@
   -  Fronend: HTML, JS, CSS
   -  Database: Postgresql
   -  Others: Google Cloud, Jenkins
--  I’m looking to collaborate on techs I mentioned
+-  I’m looking to collaborate on techs I mentioned above and below.
 -  Finding peer to learn things together? Email me!!
 - Trying to be consistent on [Leetcode](https://leetcode.com/ankan10/) <br>& currently learning SpringBoot, High Level Design, Ukulele
 

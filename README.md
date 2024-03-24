@@ -5,7 +5,7 @@
 - Tech and tools I am dealing with working as an SDE
   -  Language: Python, Bash
   -  Backend: Flask, Springboot
-  -  Fronend: HTML, JS, CSS
+  -  Frontend: HTML, JS, CSS
   -  Database: Postgresql
   -  Others: Google Cloud, Jenkins
 -  I’m looking to collaborate on techs I mentioned above and below.

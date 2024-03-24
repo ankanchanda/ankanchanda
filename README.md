@@ -4,7 +4,7 @@
 - I am skilled in Java, Python, C++, JavaScript
 - Tech and tools I am dealing with working as an SDE
   -  Language: Python, Bash
-  -  Backend: Flask
+  -  Backend: Flask, Springboot
   -  Fronend: HTML, JS, CSS
   -  Database: Postgresql
   -  Others: Google Cloud, Jenkins

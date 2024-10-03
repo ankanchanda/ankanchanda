@@ -1,9 +1,9 @@
 ### hi there
 
-- Working at Palo Alto Networks as an SDE.
+- Working at Google as an SDE.
 - I am skilled in Java, Python, C++, JavaScript, PostgreSQL
 - Tech and tools I am dealing with everyday
-  -  Language: Java, Python, TypeScript, JavaScript
+  -  Language: Java, Python, TypeScript, JavaScript, Kotlin
   -  Backend: Flask, Springboot
   -  Frontend: HTML, CSS, React
   -  Database: PostgreSQL

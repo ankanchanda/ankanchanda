@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanchanda&label=Profile%20views&color=0e75b6&style=flat" alt="ankanchanda" /> </p>
 
-### Plans to learn and execute in 2024
+### Plans to learn and execute in 2025
 - [ ] Leetcode
 - [ ] Spring Boot
 - [ ] Low Level Design

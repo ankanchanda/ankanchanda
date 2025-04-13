@@ -1,10 +1,11 @@
 ### hi there,
-
-- Working at Google as SDE.
-- I am skilled in Java, Python, Kotlin, C++, TS, JS, PostgreSQL
-- I’m looking to collaborate on projects
+- I am currently swe at google
+- Skilled in Java, Python, Kotlin, C++, TS, JS, PostgreSQL
+- Looking to collaborate on projects
 - Trying to be consistent on [Leetcode](https://leetcode.com/ankanchanda/)
+- Learning some algorithms
 - Probably reading something right now... :)
+- Binge watching random harvard stuffs.
 
 ### plans to learn and execute in 2025
 - Leetcode

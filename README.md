@@ -1,19 +1,15 @@
-### hi there
+### hi there,
 
-- Working at Google as an SDE.
-- I am skilled in Java, Python, Kotlin, C++, PostgreSQL
-- Tech and tools I am dealing with everyday
-  -  Language: Java, Python, TypeScript, JavaScript, Kotlin
-  -  Backend: flask, springboot
-  -  Frontend: Angular, React
-  -  Database: PostgreSQL
--  I’m looking to collaborate on techs I mentioned above and below.
-- Trying to be consistent on [Leetcode](https://leetcode.com/ankanchanda/) <br>& currently learning SpringBoot, High Level Design, Ukulele
+- Working at Google as SDE.
+- I am skilled in Java, Python, Kotlin, C++, TS, JS, PostgreSQL
+- I’m looking to collaborate on projects
+- Trying to be consistent on [Leetcode](https://leetcode.com/ankanchanda/)
+- Probably reading something right now... :)
 
-### Plans to learn and execute in 2025
-- [ ] Leetcode
-- [ ] Spring Boot
-- [ ] Low Level Design
-- [ ] High Level Design
-- [ ] React JS with TypeScript
-- [ ] Open source and projects
+### plans to learn and execute in 2025
+- Leetcode
+- Spring Boot
+- Low Level Design
+- High Level Design
+- Contribute to open source projects
+- Uke

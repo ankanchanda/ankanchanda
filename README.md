@@ -16,6 +16,4 @@ Planning to get into open-source soon, mostly with Java, Python, and Kotlin.
 Enough of the Programming Shit?<br>
 Reading Crime and Punishment by Dostoevsky, and strumming the Ukulele.
 
-Recently got carried away by the quote: "Who am I without melancholy, nostalgia, daydreaming, music, and empathy?"<be>
-
-YouTube playlists I am most proud of: [Scarcely Alive?](https://music.youtube.com/playlist?list=PLhfsQjmvBnTRs_JafzdA2CrU-xLRDfM5M&si=OxS51uPO23VpHyow), [हिन्दी](https://music.youtube.com/playlist?list=PLhfsQjmvBnTQk6j3L4SAbo2C3eThSeK22&si=tFDNS-1xp8dXZaVF), [বাংলা](https://music.youtube.com/playlist?list=PLhfsQjmvBnTTiwnFLxpsQpVaQVp4YsQHu&si=P34Vbnex1vUTSt-s)
+Always have music playing—love Country Rock, Metal, Rabindra Sangeet, and some old Bollywood hits.

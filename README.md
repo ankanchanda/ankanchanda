@@ -16,4 +16,4 @@ Planning to get into open-source soon, mostly with Java, Python, and Kotlin.
 Enough of the Programming Shit?<br>
 Reading Crime and Punishment by Dostoevsky, and strumming the Ukulele.
 
-Always have music playing—love Country Rock, Metal, Rabindra Sangeet, and some old Bollywood hits.
+Always have music playing—love Hard Rock,Punk Rock, Grunge, Metal, Rabindra Sangeet, and some old Bollywood hits.
